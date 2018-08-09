@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "663465255250",
+    "firebase_url": "https://firebassproject23.firebaseio.com",
+    "project_id": "firebassproject23",
+    "storage_bucket": "firebassproject23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663465255250:android:6c896e15ae8d4dd6",
+        "android_client_info": {
+          "package_name": "com.karno.firebassrealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663465255250-p2b8vv43qp250uedjpfuc3mqnab545jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karno.firebassrealtimedb",
+            "certificate_hash": "5c5c9a6388fcb55cb77a3981787a43d466c15614"
+          }
+        },
+        {
+          "client_id": "663465255250-d6oplpdm3v0m6n3bbtr2v117c6psugop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karno.firebassrealtimedb",
+            "certificate_hash": "85bc1cef3d9df945e72ff100aead93f4b147915c"
+          }
+        },
+        {
+          "client_id": "663465255250-nadp1daelbha0ph6e65rd878q85d71ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eR6KXZesd4sTP6l7XOlySpGeXS0up5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663465255250-nadp1daelbha0ph6e65rd878q85d71ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

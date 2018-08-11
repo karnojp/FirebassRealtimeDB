@@ -31,6 +31,14 @@
           }
         },
         {
+          "client_id": "663465255250-1m5mu5bd1t8nnp5j86r69vk8nrpbn7as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karno.firebassrealtimedb",
+            "certificate_hash": "83f9081ef39b527b06718f69bbaf00e6dbf54e4a"
+          }
+        },
+        {
           "client_id": "663465255250-nadp1daelbha0ph6e65rd878q85d71ol.apps.googleusercontent.com",
           "client_type": 3
         }
